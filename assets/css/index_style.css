@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f3ee;
+  font-family: Nunito;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 80%;
+  max-width: 600px;
+  height: 20vh;
+  margin: 0;
+  padding: 100px 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: clamp(24px, 8vw, 50px);
+  margin: 20px 0;
+}
+
+.content {
+  width: 85%;
+  max-width: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0 0 0;
+}
+
+.username {
+  width: 100%;
+  height: 40px;
+  margin: 0;
+  padding: 5px 10px;
+
+  font-family: Nunito;
+  font-size: 17px;
+  border: 1px black solid;
+  border-radius: 2px;
+
+  box-sizing: border-box;
+}
+
+.play {
+  width: 100%;
+  margin: 15px 0 0 0;
+  padding: 7px 10px;
+
+  font-family: Nunito;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 7px;
+}
+
+.facile {
+  background-color: #4caf50;
+  border: 1px green solid;
+}
+
+.facile:hover {
+  background-color: #45a049;
+  transition: 300ms;
+}
+
+.moyen {
+  background-color: #f9a825;
+  border: 1px solid #f57f17;
+}
+
+.moyen:hover {
+  background-color: #f57f17;
+  transition: 300ms;
+}

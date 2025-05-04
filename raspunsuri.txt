@@ -1,0 +1,47 @@
+Verbe: PARLER
+Conjugue à la 2e personne du pluriel (vous)
+→ Vous parlez
+
+Verbe: FINIR
+Conjugue à la 1re personne du pluriel (nous)
+→ Nous finissons
+
+Verbe: ALLER
+Conjugue à la 3e personne du singulier (il)
+→ Il va
+
+Verbe: PRENDRE
+Conjugue à la 2e personne du singulier (tu)
+→ Tu prends
+
+Verbe: FAIRE
+Conjugue à la 3e personne du pluriel (elles)
+→ Elles font
+
+Verbe: ÊTRE
+Conjugue à la 1re personne du singulier (je)
+→ Je suis
+
+Verbe: AVOIR
+Conjugue à la 2e personne du pluriel (vous)
+→ Vous avez
+
+Verbe: VENIR
+Conjugue à la 3e personne du pluriel (ils)
+→ Ils viennent
+
+Verbe: VOIR
+Conjugue à la 1re personne du singulier (je)
+→ Je vois
+
+Verbe: DIRE
+Conjugue à la 3e personne du singulier (elle)
+→ Elle dit
+
+Verbe: METTRE
+Conjugue à la 2e personne du singulier (tu)
+→ Tu mets
+
+Verbe: SAVOIR
+Conjugue à la 1re personne du pluriel (nous)
+→ Nous savons

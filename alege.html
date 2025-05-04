@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Le Défi des Verbes</title>
+
+    <!-- Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/alege_style.css" />
+    <!-- --------------------------------------------------- -->
+  </head>
+  <body>
+    <!-- Titlu + Progressbar -->
+    <div class="top">
+      <h1>Conjugue le verbe!</h1>
+      <div class="rowTop">
+        <div class="progrestotal">
+          <div class="progres"></div>
+        </div>
+        <p class="progressNumber"><span class="currentLevel"></span> / 12</p>
+      </div>
+    </div>
+
+    <!-- Container -->
+    <div class="container">
+      <!-- Verb + Cerinta -->
+      <div class="header">
+        <h1>Verbe: <span class="verbul">PARLER</span></h1>
+        <p class="cerinta">Conjugue a la 2e personne du pluriel (vous)</p>
+      </div>
+
+      <!-- Alege varianta corecta -->
+      <div class="varianteContainer">
+        <div class="row">
+          <button class="btn unu"></button>
+          <button class="btn doi"></button>
+        </div>
+        <div class="row">
+          <button class="btn trei"></button>
+          <button class="btn patru"></button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Script -->
+    <script src="assets/js/alege.js"></script>
+    <!-- -------------------------------- -->
+  </body>
+</html>
