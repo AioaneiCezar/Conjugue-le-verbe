@@ -144,12 +144,6 @@ function displayCorect(index) {
       btn.disabled = false;
     });
 
-    clase.forEach(function (cls) {
-      const btn = document.querySelector(cls);
-      btn.style.backgroundColor = "#f0f0f0";
-      btn.style.color = "black";
-    });
-
     if (currentLevel < nivele.length) {
       document.querySelector(".currentLevel").textContent = currentLevel;
       setLevel(currentLevel);

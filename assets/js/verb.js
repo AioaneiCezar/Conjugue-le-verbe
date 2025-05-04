@@ -63,18 +63,18 @@ function setLevel(level) {
   // Prima este null deoarece vreau sa am 12 nivele si in cod la fel. Daca incep de la 0 am sa am tot 12 dar ultimul va fi level 11.
   const cerinte = [
     null,
-    "Conjugue à la 2e personne du pluriel (vous)",
-    "Conjugue à la 1re personne du pluriel (nous)",
-    "Conjugue à la 3e personne du singulier (il)",
-    "Conjugue à la 2e personne du singulier (tu)",
-    "Conjugue à la 3e personne du pluriel (elles)",
-    "Conjugue à la 1re personne du singulier (je)",
-    "Conjugue à la 2e personne du pluriel (vous)",
-    "Conjugue à la 3e personne du pluriel (ils)",
-    "Conjugue à la 1re personne du singulier (je)",
-    "Conjugue à la 3e personne du singulier (elle)",
-    "Conjugue à la 2e personne du singulier (tu)",
-    "Conjugue à la 1re personne du pluriel (nous)",
+    "Conjugue le verbe à la 2e personne du pluriel (vous)",
+    "Conjugue le verbe à la 1re personne du pluriel (nous)",
+    "Conjugue le verbe à la 3e personne du singulier (il)",
+    "Conjugue le verbe à la 2e personne du singulier (tu)",
+    "Conjugue le verbe à la 3e personne du pluriel (elles)",
+    "Conjugue le verbe à la 1re personne du singulier (je)",
+    "Conjugue le verbe à la 2e personne du pluriel (vous)",
+    "Conjugue le verbe à la 3e personne du pluriel (ils)",
+    "Conjugue le verbe à la 1re personne du singulier (je)",
+    "Conjugue le verbe à la 3e personne du singulier (elle)",
+    "Conjugue le verbe à la 2e personne du singulier (tu)",
+    "Conjugue le verbe à la 1re personne du pluriel (nous)",
   ];
 
   // Cu ajutorul DOM-ului schimb fiecare chestie de pe ecran: verbul, cerinta si inputul il golesc

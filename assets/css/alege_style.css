@@ -124,4 +124,7 @@ button:hover {
   .progrestotal {
     width: 70%;
   }
+  button:hover {
+    background-color: #0056b3;
+  }
 }
