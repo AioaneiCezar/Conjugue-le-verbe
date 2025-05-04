@@ -98,11 +98,6 @@ button {
   transition: background-color 300ms, transform 150ms;
 }
 
-button:hover {
-  background-color: #0056b3; /* Culoare hover */
-  transform: scale(1.05); /* Scalare hover */
-}
-
 .header {
   display: flex;
   flex-direction: column;
@@ -123,5 +118,12 @@ button:hover {
   }
   .progrestotal {
     width: 70%;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
   }
 }

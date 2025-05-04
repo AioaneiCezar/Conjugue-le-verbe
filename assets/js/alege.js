@@ -142,8 +142,6 @@ function displayCorect(index) {
 
     document.querySelectorAll(".btn").forEach(function (btn) {
       btn.disabled = false;
-      btn.style.backgroundColor = "#007bff";
-      btn.style.transform = "scale(1)";
     });
 
     if (currentLevel < nivele.length) {
